@@ -1,0 +1,14 @@
+{
+  "valid_creds": [
+    {
+       "email": "arving.gerona@barapido.com",
+       "password": "Arving12!!"
+    }
+  ],
+  "ivalid_creds": [
+    {
+       "email": "arving.gerona@barapido.com",
+       "password": "Arving12!!"
+    }
+  ]
+}
